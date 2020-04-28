@@ -24,6 +24,7 @@
 			{"name": "server", "description": "Server software", "categories": [
 				{"name": "messaging", "description": "Chat/email servers"},
 				{"name": "database", "description": "Database servers"},
+				{"name": "ecm", "description": "Enterprise Content Management"},
 				{"name": "game", "description": "Game servers"},
 				{"name": "web", "description": "Web servers"}
 			]},
@@ -38,6 +39,10 @@
 			{"name": "audio", "description": "Audio libraries"},
 			{"name": "binding", "description": "D language bindings", "categories": [
 				{"name": "deimos", "description": "Deimos header-only binding"}
+			]},
+			{"name": "business", "description": "Business libraries", "categories": [
+				{"name": "sap", "description": "SAP library bindings"},
+				{"name": "salesforce", "description": "Salesforce library bindings"}
 			]},
 			{"name": "crypto", "description": "Cryptographic libraries"},
 			{"name": "development", "description": "Development support libraries", "categories": [
